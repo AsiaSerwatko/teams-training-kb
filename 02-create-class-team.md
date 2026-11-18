@@ -22,8 +22,8 @@ Each training group gets its own team in Microsoft Teams. You schedule the group
 3. Select the **Class** team type.
 4. Enter a name for the team. A description is optional. Select **Next**.
 
-   > [!TIP]
-   > Use the same naming pattern for every group, for example *Course name – Group – Start date*. It makes teams easy to find in long lists and in search.
+> [!TIP]
+> Use the same naming pattern for every group, for example *Course name – Group – Start date*. It makes teams easy to find in long lists and in search.
 
 5. Add teachers. For each group, add the program coordinators and the trainer or trainers who lead the classes. You can select several people at once. Select **Add**.
    <!-- Screenshot: Add teachers dialog with several people selected -->
