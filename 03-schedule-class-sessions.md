@@ -18,8 +18,8 @@ Schedule sessions from the team's channel, not from your personal calendar. Team
 3. Enter a title, the dates and the times. If the group meets regularly, set the meeting to repeat.
 4. Under **Required attendees**, add every trainer who leads at least one session.
 
-   > [!IMPORTANT]
-   > Add a trainer to the whole series, even if they lead only some of the sessions. You can make someone a co-organizer only if they are invited to the meeting.
+> [!IMPORTANT]
+> Add a trainer to the whole series, even if they lead only some of the sessions. You can make someone a co-organizer only if they are invited to the meeting.
 
 5. Select **Send**. The sessions appear in your Teams calendar.
 
@@ -43,13 +43,13 @@ On the **Meeting options** page, set the following:
 3. **Choose co-organizers.** Select the trainers. You can choose up to 10 co-organizers.
    <!-- Screenshot: Choose co-organizers with two trainers selected -->
 
-   > [!NOTE]
-   > You don't appear in this list: whoever schedules the meeting is its organizer. If the list is empty, nobody eligible is invited yet. Edit the series and add the trainers under **Required attendees**.
+> [!NOTE]
+> You don't appear in this list: whoever schedules the meeting is its organizer. If the list is empty, nobody eligible is invited yet. Edit the series and add the trainers under **Required attendees**.
 
 4. **Record and transcribe automatically.** Select **Record and transcribe**, or **Record only** if your organization offers it.
 
-   > [!NOTE]
-   > This setting used to be a simple on/off switch. Teams now shows a list of options, and which ones you see depends on your organization's meeting policies.
+> [!NOTE]
+> This setting used to be a simple on/off switch. Teams now shows a list of options, and which ones you see depends on your organization's meeting policies.
 
 5. Select **Save** at the bottom of the page. You can now close the browser tab.
 
