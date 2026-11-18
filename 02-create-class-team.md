@@ -16,8 +16,8 @@ Each training group gets its own team in Microsoft Teams. You schedule the group
 2. Select **Join or create a team**, and then select **Create team**. In the new Teams, use the **+** icon at the top of your team list.
    <!-- Screenshot: Join or create a team > Create team -->
 
-   > [!NOTE]
-   > In some versions of Teams, the **Create team** button appears only when you hover over its tile.
+> [!NOTE]
+> In some versions of Teams, the **Create team** button appears only when you hover over its tile.
 
 3. Select the **Class** team type.
 4. Enter a name for the team. A description is optional. Select **Next**.
